@@ -134,8 +134,6 @@ The dashboard created for this project provides a comprehensive overview of stud
 
 Each visualization and table was carefully selected to support trend identification, group comparison, and actionable insight generation, making the dashboard both an effective analytical tool and a clear, user-friendly presentation asset for stakeholders.
 
-<img width="602" height="754" alt="Screenshot 2025-12-31 at 21 32 20" src="https://github.com/user-attachments/assets/c0150616-349e-4b70-8098-14db0bb742aa" />
-
 ---
 
 ## Instructions to Run or View
@@ -245,3 +243,18 @@ While the current dashboard provides a comprehensive overview of student perform
     - Enhance dashboard readability by adding explanatory tooltips, annotations, and brief insight summaries directly within the dashboard to support non-technical stakeholders.
 
 These improvements would help transform the dashboard from a descriptive analytics tool into a more interactive, scalable, and decision-support-oriented solution, while building on the strong analytical foundation established in this project.
+
+---
+
+## Dashboard
+<img width="602" height="754" alt="Screenshot 2025-12-31 at 21 32 20" src="https://github.com/user-attachments/assets/5b290dcd-aae6-4817-86b4-5317db0dc1df" />
+
+### Presentation Slides 
+https://docs.google.com/presentation/d/1tEpJf4lAY7cy1OqFZTmpBzTs8IogCdQdD-R6uWNtI3w/edit?usp=sharing
+
+## Author's Contact Details 
+- Izza Zahrotunnisa
+- Email: izzazahratunnisa@gmail.com
+- Phone Number: +6281319317614 / +97433881815
+- Linkedin: https://www.linkedin.com/in/izzazahrotunnisa/
+
