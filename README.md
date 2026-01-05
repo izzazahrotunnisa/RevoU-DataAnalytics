@@ -2,6 +2,10 @@
 Certified 1 Week Course on Data Analytics 
 
 # Academic Performance Insights: Student Exam Analysis
+
+---
+
+## Project Background
 This project is part of a five-day short course designed to introduce learners to the field of data analysis. The course provides an overview of the data analyst career path, along with hands-on practice in performing core responsibilities such as data cleaning, exploration, visualization, and insight generation.
 
 For this project, publicly available data was provided to allow learners to practice key data analysis techniques using tools like Google Sheets and Google Slides. The project emphasizes both the analytical process and the presentation of findings, ensuring that insights are communicated effectively to stakeholders.
